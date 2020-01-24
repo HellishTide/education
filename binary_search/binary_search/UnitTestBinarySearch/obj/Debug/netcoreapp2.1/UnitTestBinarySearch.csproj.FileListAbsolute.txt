@@ -1,0 +1,17 @@
+C:\Users\a.smirnov\Documents\education\binary_search\binary_search\UnitTestBinarySearch\obj\Debug\netcoreapp2.1\UnitTestBinarySearch.csprojAssemblyReference.cache
+C:\Users\a.smirnov\Documents\education\binary_search\binary_search\UnitTestBinarySearch\obj\Debug\netcoreapp2.1\UnitTestBinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\a.smirnov\Documents\education\binary_search\binary_search\UnitTestBinarySearch\obj\Debug\netcoreapp2.1\UnitTestBinarySearch.AssemblyInfoInputs.cache
+C:\Users\a.smirnov\Documents\education\binary_search\binary_search\UnitTestBinarySearch\obj\Debug\netcoreapp2.1\UnitTestBinarySearch.AssemblyInfo.cs
+C:\Users\a.smirnov\Documents\education\binary_search\binary_search\UnitTestBinarySearch\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\a.smirnov\Documents\education\binary_search\binary_search\UnitTestBinarySearch\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\a.smirnov\Documents\education\binary_search\binary_search\UnitTestBinarySearch\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\a.smirnov\Documents\education\binary_search\binary_search\UnitTestBinarySearch\bin\Debug\netcoreapp2.1\UnitTestBinarySearch.deps.json
+C:\Users\a.smirnov\Documents\education\binary_search\binary_search\UnitTestBinarySearch\bin\Debug\netcoreapp2.1\UnitTestBinarySearch.runtimeconfig.json
+C:\Users\a.smirnov\Documents\education\binary_search\binary_search\UnitTestBinarySearch\bin\Debug\netcoreapp2.1\UnitTestBinarySearch.runtimeconfig.dev.json
+C:\Users\a.smirnov\Documents\education\binary_search\binary_search\UnitTestBinarySearch\bin\Debug\netcoreapp2.1\UnitTestBinarySearch.dll
+C:\Users\a.smirnov\Documents\education\binary_search\binary_search\UnitTestBinarySearch\bin\Debug\netcoreapp2.1\UnitTestBinarySearch.pdb
+C:\Users\a.smirnov\Documents\education\binary_search\binary_search\UnitTestBinarySearch\bin\Debug\netcoreapp2.1\binary_search.dll
+C:\Users\a.smirnov\Documents\education\binary_search\binary_search\UnitTestBinarySearch\bin\Debug\netcoreapp2.1\binary_search.pdb
+C:\Users\a.smirnov\Documents\education\binary_search\binary_search\UnitTestBinarySearch\obj\Debug\netcoreapp2.1\UnitTestBinarySearch.csproj.CopyComplete
+C:\Users\a.smirnov\Documents\education\binary_search\binary_search\UnitTestBinarySearch\obj\Debug\netcoreapp2.1\UnitTestBinarySearch.dll
+C:\Users\a.smirnov\Documents\education\binary_search\binary_search\UnitTestBinarySearch\obj\Debug\netcoreapp2.1\UnitTestBinarySearch.pdb

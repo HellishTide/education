@@ -1,0 +1,10 @@
+C:\Users\a.smirnov\Documents\education\binary_search\binary_search\binary_search\bin\Debug\netcoreapp2.1\binary_search.deps.json
+C:\Users\a.smirnov\Documents\education\binary_search\binary_search\binary_search\bin\Debug\netcoreapp2.1\binary_search.runtimeconfig.json
+C:\Users\a.smirnov\Documents\education\binary_search\binary_search\binary_search\bin\Debug\netcoreapp2.1\binary_search.runtimeconfig.dev.json
+C:\Users\a.smirnov\Documents\education\binary_search\binary_search\binary_search\bin\Debug\netcoreapp2.1\binary_search.dll
+C:\Users\a.smirnov\Documents\education\binary_search\binary_search\binary_search\bin\Debug\netcoreapp2.1\binary_search.pdb
+C:\Users\a.smirnov\Documents\education\binary_search\binary_search\binary_search\obj\Debug\netcoreapp2.1\binary_search.csproj.CoreCompileInputs.cache
+C:\Users\a.smirnov\Documents\education\binary_search\binary_search\binary_search\obj\Debug\netcoreapp2.1\binary_search.AssemblyInfoInputs.cache
+C:\Users\a.smirnov\Documents\education\binary_search\binary_search\binary_search\obj\Debug\netcoreapp2.1\binary_search.AssemblyInfo.cs
+C:\Users\a.smirnov\Documents\education\binary_search\binary_search\binary_search\obj\Debug\netcoreapp2.1\binary_search.dll
+C:\Users\a.smirnov\Documents\education\binary_search\binary_search\binary_search\obj\Debug\netcoreapp2.1\binary_search.pdb
