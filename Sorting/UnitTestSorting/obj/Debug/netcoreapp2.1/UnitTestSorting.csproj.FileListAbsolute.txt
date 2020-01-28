@@ -1,0 +1,17 @@
+C:\Users\a.smirnov\Documents\education\Sorting\UnitTestSorting\obj\Debug\netcoreapp2.1\UnitTestSorting.csprojAssemblyReference.cache
+C:\Users\a.smirnov\Documents\education\Sorting\UnitTestSorting\obj\Debug\netcoreapp2.1\UnitTestSorting.csproj.CoreCompileInputs.cache
+C:\Users\a.smirnov\Documents\education\Sorting\UnitTestSorting\obj\Debug\netcoreapp2.1\UnitTestSorting.AssemblyInfoInputs.cache
+C:\Users\a.smirnov\Documents\education\Sorting\UnitTestSorting\obj\Debug\netcoreapp2.1\UnitTestSorting.AssemblyInfo.cs
+C:\Users\a.smirnov\Documents\education\Sorting\UnitTestSorting\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\a.smirnov\Documents\education\Sorting\UnitTestSorting\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\a.smirnov\Documents\education\Sorting\UnitTestSorting\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\a.smirnov\Documents\education\Sorting\UnitTestSorting\bin\Debug\netcoreapp2.1\UnitTestSorting.deps.json
+C:\Users\a.smirnov\Documents\education\Sorting\UnitTestSorting\bin\Debug\netcoreapp2.1\UnitTestSorting.runtimeconfig.json
+C:\Users\a.smirnov\Documents\education\Sorting\UnitTestSorting\bin\Debug\netcoreapp2.1\UnitTestSorting.runtimeconfig.dev.json
+C:\Users\a.smirnov\Documents\education\Sorting\UnitTestSorting\bin\Debug\netcoreapp2.1\UnitTestSorting.dll
+C:\Users\a.smirnov\Documents\education\Sorting\UnitTestSorting\bin\Debug\netcoreapp2.1\UnitTestSorting.pdb
+C:\Users\a.smirnov\Documents\education\Sorting\UnitTestSorting\bin\Debug\netcoreapp2.1\Sorting.dll
+C:\Users\a.smirnov\Documents\education\Sorting\UnitTestSorting\bin\Debug\netcoreapp2.1\Sorting.pdb
+C:\Users\a.smirnov\Documents\education\Sorting\UnitTestSorting\obj\Debug\netcoreapp2.1\UnitTestSorting.csproj.CopyComplete
+C:\Users\a.smirnov\Documents\education\Sorting\UnitTestSorting\obj\Debug\netcoreapp2.1\UnitTestSorting.dll
+C:\Users\a.smirnov\Documents\education\Sorting\UnitTestSorting\obj\Debug\netcoreapp2.1\UnitTestSorting.pdb

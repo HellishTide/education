@@ -19,9 +19,9 @@ namespace binary_search
                     return String.Format("{0}", mid);
                 else
                     if (guess > find)
-                        high--;
+                        high = mid - 1;
                     else
-                        low++;
+                        low = mid + 1;
 
             }
 

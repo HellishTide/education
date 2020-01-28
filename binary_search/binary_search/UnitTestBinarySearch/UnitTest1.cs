@@ -54,5 +54,22 @@ namespace UnitTestBinarySearch
             // assert
             Assert.AreEqual(expected, res, "Not equal");
         }
+
+        [TestMethod]
+        public void BinSearch_FromBook()
+        {
+            // arange
+            int[] ar = {1, 3, 5, 7, 9};
+            int find = 3;
+
+            string expected = "1";
+            BinSearch bs = new BinSearch();
+
+            // act
+            string res = bs.search(ar, find);
+
+            // assert
+            Assert.AreEqual(expected, res, "Not equal");
+        }
     }
 }
