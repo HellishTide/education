@@ -18,10 +18,10 @@ namespace UnitTestSorting
             int index = 0;
 
             // act
-            int res = sort.FindMinIndex(array, index);
+            int actual = sort.FindMinIndex(array, index);
 
             // assert
-            Assert.AreEqual(expected, res);
+            Assert.AreEqual(expected, actual);
         }
 
         [TestMethod]
@@ -32,10 +32,10 @@ namespace UnitTestSorting
             int index = 3;
 
             // act
-            int res = sort.FindMinIndex(array, index);
+            int actual = sort.FindMinIndex(array, index);
 
             // assert
-            Assert.AreEqual(expected, res);
+            Assert.AreEqual(expected, actual);
         }
 
         [TestMethod]
@@ -52,7 +52,7 @@ namespace UnitTestSorting
         }
 
         [TestMethod]
-        public void SwapIndex_2And5_To5And2()
+        public void Swap_2And5_To5And2()
         {
             // arange
             int x = 2;
@@ -61,7 +61,7 @@ namespace UnitTestSorting
             int expectedY = 2;
 
             // act
-            sort.SwapIndex(ref x, ref y);
+            sort.Swap(ref x, ref y);
 
             // assert
             if (x == exceptedX && y == expectedY)
@@ -77,10 +77,79 @@ namespace UnitTestSorting
             int[] expected = { 2, 3, 5, 7, 10 };
 
             // act
-            int[] res = sort.SelectionSort(array);
+            int[] actual = sort.SelectionSort(array);
 
             // assert
-            CollectionAssert.AreEqual(expected, res);
+            CollectionAssert.AreEqual(expected, actual);
+        }
+
+        [TestMethod]
+        public void QuickSort_0Elem()
+        {
+            // arange
+            int[] array = new int[0];
+            int[] expected = { };
+
+            // act
+            int[] actual = sort.QuickSort(array);
+
+            // assert
+            CollectionAssert.AreEqual(expected, actual);
+        }
+
+        [TestMethod]
+        public void QuickSort_1Elem()
+        {
+            // arange
+            int[] array = new int[1];
+            int[] expected = { 0 };
+
+            // act
+            int[] actual = sort.QuickSort(array);
+
+            // assert
+            CollectionAssert.AreEqual(expected, actual);
+        }
+
+        [TestMethod]
+        public void QuickSort_2Elem()
+        {
+            // arange
+            int[] array = new int[2];
+            int[] expected = new int[2];
+
+            // act
+            int[] actual = sort.QuickSort(array);
+
+            // assert
+            CollectionAssert.AreEqual(expected, actual);
+        }
+
+        [TestMethod]
+        public void QuickSort_IsSorted()
+        {
+            // arange
+            int[] expected = { 2, 3, 5, 7, 10 };
+
+            // act
+            int[] actual = sort.QuickSort(array);
+
+            // assert
+            CollectionAssert.AreEqual(expected, actual);
+        }
+
+        [TestMethod]
+        public void QuickSort_IsSortedWithDuplicates()
+        {
+            // arange
+            int[] example  = { 3, 7, 13, 5, 2, 11, 2, 13, 10 };
+            int[] expected = { 2, 2, 3, 5, 7, 10, 11, 13, 13 };
+
+            // act
+            int[] actual = sort.QuickSort(example);
+
+            // assert
+            CollectionAssert.AreEqual(expected, actual);
         }
     }
 }
