@@ -1,0 +1,11 @@
+C:\Users\a.smirnov\Documents\education\bfs\bfs\bin\Debug\netcoreapp2.1\bfs.deps.json
+C:\Users\a.smirnov\Documents\education\bfs\bfs\bin\Debug\netcoreapp2.1\bfs.runtimeconfig.json
+C:\Users\a.smirnov\Documents\education\bfs\bfs\bin\Debug\netcoreapp2.1\bfs.runtimeconfig.dev.json
+C:\Users\a.smirnov\Documents\education\bfs\bfs\bin\Debug\netcoreapp2.1\bfs.dll
+C:\Users\a.smirnov\Documents\education\bfs\bfs\bin\Debug\netcoreapp2.1\bfs.pdb
+C:\Users\a.smirnov\Documents\education\bfs\bfs\obj\Debug\netcoreapp2.1\bfs.csprojAssemblyReference.cache
+C:\Users\a.smirnov\Documents\education\bfs\bfs\obj\Debug\netcoreapp2.1\bfs.csproj.CoreCompileInputs.cache
+C:\Users\a.smirnov\Documents\education\bfs\bfs\obj\Debug\netcoreapp2.1\bfs.AssemblyInfoInputs.cache
+C:\Users\a.smirnov\Documents\education\bfs\bfs\obj\Debug\netcoreapp2.1\bfs.AssemblyInfo.cs
+C:\Users\a.smirnov\Documents\education\bfs\bfs\obj\Debug\netcoreapp2.1\bfs.dll
+C:\Users\a.smirnov\Documents\education\bfs\bfs\obj\Debug\netcoreapp2.1\bfs.pdb

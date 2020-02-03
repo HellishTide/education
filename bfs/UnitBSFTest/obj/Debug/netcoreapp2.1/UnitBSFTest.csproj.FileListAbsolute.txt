@@ -1,0 +1,17 @@
+C:\Users\a.smirnov\Documents\education\bfs\UnitBSFTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\a.smirnov\Documents\education\bfs\UnitBSFTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\a.smirnov\Documents\education\bfs\UnitBSFTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\a.smirnov\Documents\education\bfs\UnitBSFTest\bin\Debug\netcoreapp2.1\UnitBSFTest.deps.json
+C:\Users\a.smirnov\Documents\education\bfs\UnitBSFTest\bin\Debug\netcoreapp2.1\UnitBSFTest.runtimeconfig.json
+C:\Users\a.smirnov\Documents\education\bfs\UnitBSFTest\bin\Debug\netcoreapp2.1\UnitBSFTest.runtimeconfig.dev.json
+C:\Users\a.smirnov\Documents\education\bfs\UnitBSFTest\bin\Debug\netcoreapp2.1\UnitBSFTest.dll
+C:\Users\a.smirnov\Documents\education\bfs\UnitBSFTest\bin\Debug\netcoreapp2.1\UnitBSFTest.pdb
+C:\Users\a.smirnov\Documents\education\bfs\UnitBSFTest\bin\Debug\netcoreapp2.1\bfs.dll
+C:\Users\a.smirnov\Documents\education\bfs\UnitBSFTest\bin\Debug\netcoreapp2.1\bfs.pdb
+C:\Users\a.smirnov\Documents\education\bfs\UnitBSFTest\obj\Debug\netcoreapp2.1\UnitBSFTest.csprojAssemblyReference.cache
+C:\Users\a.smirnov\Documents\education\bfs\UnitBSFTest\obj\Debug\netcoreapp2.1\UnitBSFTest.csproj.CoreCompileInputs.cache
+C:\Users\a.smirnov\Documents\education\bfs\UnitBSFTest\obj\Debug\netcoreapp2.1\UnitBSFTest.AssemblyInfoInputs.cache
+C:\Users\a.smirnov\Documents\education\bfs\UnitBSFTest\obj\Debug\netcoreapp2.1\UnitBSFTest.AssemblyInfo.cs
+C:\Users\a.smirnov\Documents\education\bfs\UnitBSFTest\obj\Debug\netcoreapp2.1\UnitBSFTest.csproj.CopyComplete
+C:\Users\a.smirnov\Documents\education\bfs\UnitBSFTest\obj\Debug\netcoreapp2.1\UnitBSFTest.dll
+C:\Users\a.smirnov\Documents\education\bfs\UnitBSFTest\obj\Debug\netcoreapp2.1\UnitBSFTest.pdb
