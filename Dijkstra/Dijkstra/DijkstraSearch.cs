@@ -6,7 +6,7 @@ namespace Dijkstra
 {
     public class DijkstraSearch
     {
-        private Dictionary<string, string> Graph { get; set; } = new Dictionary<string, string>();
+        public Dictionary<string, Dictionary<string, int>> Graph { get; set; } = new Dictionary<string, Dictionary<string, int>>();
 
     }
 }

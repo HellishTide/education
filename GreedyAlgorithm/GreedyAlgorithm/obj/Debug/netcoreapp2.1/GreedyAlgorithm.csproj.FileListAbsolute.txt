@@ -1,0 +1,11 @@
+C:\Users\a.smirnov\Documents\education\GreedyAlgorithm\GreedyAlgorithm\bin\Debug\netcoreapp2.1\GreedyAlgorithm.deps.json
+C:\Users\a.smirnov\Documents\education\GreedyAlgorithm\GreedyAlgorithm\bin\Debug\netcoreapp2.1\GreedyAlgorithm.runtimeconfig.json
+C:\Users\a.smirnov\Documents\education\GreedyAlgorithm\GreedyAlgorithm\bin\Debug\netcoreapp2.1\GreedyAlgorithm.runtimeconfig.dev.json
+C:\Users\a.smirnov\Documents\education\GreedyAlgorithm\GreedyAlgorithm\bin\Debug\netcoreapp2.1\GreedyAlgorithm.dll
+C:\Users\a.smirnov\Documents\education\GreedyAlgorithm\GreedyAlgorithm\bin\Debug\netcoreapp2.1\GreedyAlgorithm.pdb
+C:\Users\a.smirnov\Documents\education\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\netcoreapp2.1\GreedyAlgorithm.csprojAssemblyReference.cache
+C:\Users\a.smirnov\Documents\education\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\netcoreapp2.1\GreedyAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\a.smirnov\Documents\education\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\netcoreapp2.1\GreedyAlgorithm.AssemblyInfoInputs.cache
+C:\Users\a.smirnov\Documents\education\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\netcoreapp2.1\GreedyAlgorithm.AssemblyInfo.cs
+C:\Users\a.smirnov\Documents\education\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\netcoreapp2.1\GreedyAlgorithm.dll
+C:\Users\a.smirnov\Documents\education\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\netcoreapp2.1\GreedyAlgorithm.pdb
