@@ -8,17 +8,17 @@ namespace GreedyAlgorithm
     public class Greedy
     {
         // sample data
-        public HashSet<string> StatesNeeded { get; } = new HashSet<string> { "mt", "wa", "or", "id", "nv", "ut" };
-        public Dictionary<string, HashSet<string>> Stations { get; } = new Dictionary<string, HashSet<string>>()
+        private HashSet<string> StatesNeeded { get; } = new HashSet<string> { "mt", "wa", "or", "id", "nv", "ut", "ca", "az" };
+        private Dictionary<string, HashSet<string>> Stations { get; } = new Dictionary<string, HashSet<string>>()
         {
              { "kone", new HashSet<string>{ "id", "nv", "ut" } }
-            ,{ "kthree", new HashSet<string>{ "or", "nv", "ca" } }
             ,{ "ktwo", new HashSet<string>{ "wa", "id", "mt" } }
-            ,{ "kfive", new HashSet<string>{ "ca", "az" } }
+            ,{ "kthree", new HashSet<string>{ "or", "nv", "ca" } }
             ,{ "kfour", new HashSet<string>{ "nv", "ut" } }
+            ,{ "kfive", new HashSet<string>{ "ca", "az" } }
         };
 
-        public HashSet<string> FinalStations { get; set; } = new HashSet<string>();
+        private HashSet<string> FinalStations { get; set; } = new HashSet<string>();
 
         private HashSet<string> StatesCovered { get; set; } = new HashSet<string>();
 
@@ -44,6 +44,12 @@ namespace GreedyAlgorithm
                 StatesNeeded.ExceptWith(StatesCovered);
                 FinalStations.Add(best_station);
             }
+        }
+
+        public void PrintFoundedStationsToConsole()
+        {
+            foreach(var element in FinalStations)
+                Console.WriteLine(element);
         }
     }
 }

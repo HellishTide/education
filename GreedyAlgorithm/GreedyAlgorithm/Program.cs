@@ -10,9 +10,7 @@ namespace GreedyAlgorithm
         {
             Greedy g = new Greedy();
             g.Find();
-            foreach(var el in g.FinalStations)
-                Console.WriteLine(el);
-
+            g.PrintFoundedStationsToConsole();
         }
     }
 }
