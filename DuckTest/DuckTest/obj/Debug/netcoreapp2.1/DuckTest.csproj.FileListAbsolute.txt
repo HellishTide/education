@@ -1,0 +1,11 @@
+C:\Users\a.smirnov\Documents\education\DuckTest\DuckTest\bin\Debug\netcoreapp2.1\DuckTest.deps.json
+C:\Users\a.smirnov\Documents\education\DuckTest\DuckTest\bin\Debug\netcoreapp2.1\DuckTest.runtimeconfig.json
+C:\Users\a.smirnov\Documents\education\DuckTest\DuckTest\bin\Debug\netcoreapp2.1\DuckTest.runtimeconfig.dev.json
+C:\Users\a.smirnov\Documents\education\DuckTest\DuckTest\bin\Debug\netcoreapp2.1\DuckTest.dll
+C:\Users\a.smirnov\Documents\education\DuckTest\DuckTest\bin\Debug\netcoreapp2.1\DuckTest.pdb
+C:\Users\a.smirnov\Documents\education\DuckTest\DuckTest\obj\Debug\netcoreapp2.1\DuckTest.csprojAssemblyReference.cache
+C:\Users\a.smirnov\Documents\education\DuckTest\DuckTest\obj\Debug\netcoreapp2.1\DuckTest.csproj.CoreCompileInputs.cache
+C:\Users\a.smirnov\Documents\education\DuckTest\DuckTest\obj\Debug\netcoreapp2.1\DuckTest.AssemblyInfoInputs.cache
+C:\Users\a.smirnov\Documents\education\DuckTest\DuckTest\obj\Debug\netcoreapp2.1\DuckTest.AssemblyInfo.cs
+C:\Users\a.smirnov\Documents\education\DuckTest\DuckTest\obj\Debug\netcoreapp2.1\DuckTest.dll
+C:\Users\a.smirnov\Documents\education\DuckTest\DuckTest\obj\Debug\netcoreapp2.1\DuckTest.pdb
