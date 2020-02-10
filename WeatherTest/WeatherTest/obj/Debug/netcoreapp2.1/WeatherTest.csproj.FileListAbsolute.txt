@@ -1,0 +1,11 @@
+C:\Users\a.smirnov\Documents\education\WeatherTest\WeatherTest\bin\Debug\netcoreapp2.1\WeatherTest.deps.json
+C:\Users\a.smirnov\Documents\education\WeatherTest\WeatherTest\bin\Debug\netcoreapp2.1\WeatherTest.runtimeconfig.json
+C:\Users\a.smirnov\Documents\education\WeatherTest\WeatherTest\bin\Debug\netcoreapp2.1\WeatherTest.runtimeconfig.dev.json
+C:\Users\a.smirnov\Documents\education\WeatherTest\WeatherTest\bin\Debug\netcoreapp2.1\WeatherTest.dll
+C:\Users\a.smirnov\Documents\education\WeatherTest\WeatherTest\bin\Debug\netcoreapp2.1\WeatherTest.pdb
+C:\Users\a.smirnov\Documents\education\WeatherTest\WeatherTest\obj\Debug\netcoreapp2.1\WeatherTest.csprojAssemblyReference.cache
+C:\Users\a.smirnov\Documents\education\WeatherTest\WeatherTest\obj\Debug\netcoreapp2.1\WeatherTest.csproj.CoreCompileInputs.cache
+C:\Users\a.smirnov\Documents\education\WeatherTest\WeatherTest\obj\Debug\netcoreapp2.1\WeatherTest.AssemblyInfoInputs.cache
+C:\Users\a.smirnov\Documents\education\WeatherTest\WeatherTest\obj\Debug\netcoreapp2.1\WeatherTest.AssemblyInfo.cs
+C:\Users\a.smirnov\Documents\education\WeatherTest\WeatherTest\obj\Debug\netcoreapp2.1\WeatherTest.dll
+C:\Users\a.smirnov\Documents\education\WeatherTest\WeatherTest\obj\Debug\netcoreapp2.1\WeatherTest.pdb
