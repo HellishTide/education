@@ -4,11 +4,11 @@ using System.Text;
 
 namespace WeatherTest
 {
-    public class CurrentConditionsDisplay: IObserver<WeatherData>, IDisplayElement
+    public class CurrentConditionsDisplay: IObserver, IDisplayElement
     {
         private float temperature;
         private float humidity;
-        IObservable<T>
+        private ISubject weatherData;
 
         public CurrentConditionsDisplay(ISubject weatherData)
         {
